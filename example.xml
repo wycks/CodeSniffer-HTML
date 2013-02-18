@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Include a link to render as HTML via the .xsl template file -->
+<?xml-stylesheet type="text/xsl" href="http://example.com/PHP-Codesniffer.xsl"?>
+
+
+<phpcs version="1.3.6">
+<!--  ...your report -->
+</phpcs>
